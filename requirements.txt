@@ -1,0 +1,8 @@
+streamlit
+python-dotenv
+agno
+groq
+openai
+youtube-transcript-api
+ddgs
+yfinance
